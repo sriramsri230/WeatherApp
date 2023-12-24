@@ -1,4 +1,4 @@
-**IndianWeatherSatellite Map**
+#IndianWeatherSatelliteMap
 
 **Project Description**
 IndianWeatherSatellite Map is an Android app that fetches weather satellite images from the Indian Meteorological Department (IMD) and displays them in a RecyclerView. The app provides real-time updates for weather conditions and includes animated maps for a dynamic visualization of weather patterns.
