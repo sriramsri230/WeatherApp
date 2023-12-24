@@ -9,6 +9,14 @@ Displays images in a RecyclerView for easy navigation and exploration.
 Real-time automatic updates for the latest weather information.
 Animated maps for a dynamic and engaging user experience.<br><br>
 
+
+
+<h4>Skills Used</h4>
+<br>
+*Chatgpt code assistent<br>
+*Java Programming <br>
+*Android Studio.
+
 <h4>Credits</h4>
 This project would not have been possible without the support and data provided by the following organizations:<br><br>
 
