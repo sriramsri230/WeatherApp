@@ -15,10 +15,11 @@ Indian Meteorological Department (IMD): The primary source of weather satellite 
 Regional Meteorological Centre (RMC) - Chennai: Additional support and data for enhancing the app's features.
 Screenshots
 
-Caption for Screenshot 1
+![HomePage](https://github.com/sriram230/indiaweathersatelite/assets/123522120/b4f80451-49b9-4a50-8a19-932b1dbac585)
+![MapDisplay](https://github.com/sriram230/indiaweathersatelite/assets/123522120/ae8ec175-7905-4583-9c9a-fad1b9a8944d)
+![MapDisplay2](https://github.com/sriram230/indiaweathersatelite/assets/123522120/2b94657f-c313-4348-9a45-d24238044226)
+![About](https://github.com/sriram230/indiaweathersatelite/assets/123522120/912fd324-1a06-4427-8de6-e74836852d57)
 
-
-Caption for Screenshot 2
 
 **Installation**
 To install the IndianWeatherSatellite Map app on your Android device, follow these steps:
