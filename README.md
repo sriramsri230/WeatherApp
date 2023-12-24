@@ -12,7 +12,7 @@ Animated maps for a dynamic and engaging user experience.<br><br>
 <h4>Credits</h4>
 This project would not have been possible without the support and data provided by the following organizations:<br><br>
 
-Indian Meteorological Department (IMD): The primary source of weather satellite images and data.
+Indian Meteorological Department (IMD): The primary source of weather satellite images and data.<br>
 Regional Meteorological Centre (RMC) - Chennai: Additional support and data for enhancing the app's features.<br><br>
 
 <h4>Screenshots</h4>
@@ -49,9 +49,9 @@ This project is licensed under the MIT License.<br><br>
 For any inquiries or feedback, please contact the project maintainers:<br><br>
 
 Sriram.S
-GitHub: sriram230
+GitHub: sriram230<br>
 Email: sriramsri230@gmail.com<br><br>
 
 <h4>Acknowledgments</h4>
-Special thanks to the Indian Meteorological Department for providing valuable data.
+Special thanks to the Indian Meteorological Department for providing valuable data.<br>
 Thanks to the Regional Meteorological Centre (RMC) - Chennai for their support.
