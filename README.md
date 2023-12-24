@@ -39,9 +39,6 @@ Enable automatic updates for real-time information.<br>
 Experience dynamic weather patterns with animated maps.<br><br>
 
 
-<h4>Contributing</h4>
-If you would like to contribute to the development of the IndianWeatherSatellite Map app, please follow the guidelines in CONTRIBUTING.md.<br>
-
 <h4>License</h4>
 This project is licensed under the MIT License.<br><br>
 
