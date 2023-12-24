@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/map"
+        android:title="Map Image"
+        android:icon="@drawable/map_svgrepo_com"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/chat_round_like_svgrepo_com"/>
+
+</menu>

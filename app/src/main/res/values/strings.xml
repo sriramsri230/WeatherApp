@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="IMDMap">
+        <item> Asia Infrared -1</item>
+        <item>Asia Visible</item>
+        <item>Asia Water Vapour</item>
+        <item>Asia Cloud Top Brightness Temperature</item>
+        <item>Global Infrared -1</item>
+        <item>Global Visible</item>
+        <item>Global Water Vapour</item>
+        <item>Animation Infrared -1</item>
+        <item>Animation Visible</item>
+        <item>Animation Water Vapour</item>
+    </string-array>
+
+
+    <string-array name="RadarMap">
+        <item>Radar 1</item>
+        <item>Radar 2</item>
+    </string-array>
+</resources>
