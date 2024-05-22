@@ -9,7 +9,7 @@ Displays images in a RecyclerView for easy navigation and exploration.
 Real-time automatic updates for the latest weather information.
 Animated maps for a dynamic and engaging user experience.<br><br>
 
-
+<h4>Note: This app will not work on dark mode.</h4>
 
 <h4>Skills Used</h4>
 <br>
